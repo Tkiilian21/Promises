@@ -1,0 +1,18 @@
+try{
+
+//tentativa de sucesso
+} catch(){
+	//primeiro catch
+}catch(){
+	//segundo catch
+}finalley{
+ 	//executado independente do resultado
+}
+
+
+
+
+
+------------------------
+stacktrace
+	 
